@@ -1,4 +1,4 @@
-# KwaLanguageGroupNLPDataset
+# Kwa Language Group NLP Dataset
 This is a dataset of fon, ewe and kabiye sentences annotated for NLP tasks / Ceci est un datasets de phrases fon, éwé et kabyè annoté pour des tâches NLP
 
 ## ENGLISH 
