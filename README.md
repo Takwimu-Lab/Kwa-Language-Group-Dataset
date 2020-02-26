@@ -30,9 +30,9 @@ The scraping was done using Python3 code and libraries such as Requests, Beautif
 
 Five members of Takwimu Lab worked on this collection :
 
-- (Godson KALIPE)[https://github.com/godsonk]
+- [Godson KALIPE](https://github.com/godsonk)
 - Jamiil Toure ALI
-- (Kevin DEGILA)[https://github.com/kevindegila]
+- [Kevin DEGILA](https://github.com/kevindegila)
 - Yannick KIKI
 - Bola Balogoun
 
@@ -73,9 +73,9 @@ Le scraping a été fait en utilisant Python3 et des librairies telles que Reque
 
 Cinq membres de Takwimu Lab ont travaillé à la collection :
 
-- (Godson KALIPE)[https://github.com/godsonk]
+- [Godson KALIPE](https://github.com/godsonk)
 - Jamiil Toure ALI
-- (Kevin DEGILA)[https://github.com/kevindegila]
+- [Kevin DEGILA](https://github.com/kevindegila)
 - Yannick KIKI
 - Bola Balogoun
 
